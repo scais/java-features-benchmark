@@ -1,4 +1,4 @@
-package java4;
+package java4.asserts;
 
 public class Assert {
 
