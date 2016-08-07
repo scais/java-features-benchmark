@@ -1,2 +1,3 @@
 exceptions: own exceptions
 collections: more collections
+buildingblocks: classes defined inside methods
